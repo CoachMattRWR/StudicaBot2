@@ -1,7 +1,7 @@
 # StudicaBot
 Various demonstration programs in Java for StudicaBot that use April Tags, OpenCV and Sparkfun Optical Tracking Odometry Sensor (OTOS).
 
-StudicaBot is a demonstration *FIRST* Tech Challenge robot built from the (Studica Robotics Kit)[https://www.studica.ca/en/competition-kits].
+StudicaBot is a demonstration *FIRST* Tech Challenge robot built from the [Studica Robotics Kit](https://www.studica.ca/en/competition-kits).
 
 INTO THE DEEP
 - ITD_demo1 - an autonomous program that uses the IMU and AprilTags to score a sample and park.
